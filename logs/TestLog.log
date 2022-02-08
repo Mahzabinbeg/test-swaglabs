@@ -1,0 +1,14 @@
+[INFO ] 2022-02-07 19:39:33.798 [main] EnvironmentUtils - ENVIRONMENT property was not set. Using default environment: qa
+[INFO ] 2022-02-07 19:39:33.817 [main] EnvironmentUtils - Running test in: qa
+[INFO ] 2022-02-07 19:39:33.826 [main] DriverUtils - DRIVER_TYPE not set. Using deafault driver type: chrome
+[INFO ] 2022-02-07 19:39:35.624 [main] EnvironmentUtils - ENVIRONMENT property was not set. Using default environment: qa
+[INFO ] 2022-02-07 19:39:35.624 [main] EnvironmentUtils - Running test in: qa
+[INFO ] 2022-02-07 19:39:35.625 [main] DriverUtils - DRIVER_TYPE not set. Using deafault driver type: chrome
+[INFO ] 2022-02-07 19:56:44.039 [main] EnvironmentUtils - ENVIRONMENT property was not set. Using default environment: qa
+[INFO ] 2022-02-07 19:56:44.062 [main] EnvironmentUtils - Running test in: qa
+[INFO ] 2022-02-07 19:56:44.071 [main] DriverUtils - DRIVER_TYPE not set. Using deafault driver type: chrome
+[INFO ] 2022-02-07 19:56:53.077 [main] DriverUtils - Running tests on: chrome
+[INFO ] 2022-02-07 19:56:55.611 [main] EnvironmentUtils - ENVIRONMENT property was not set. Using default environment: qa
+[INFO ] 2022-02-07 19:56:55.611 [main] EnvironmentUtils - Running test in: qa
+[INFO ] 2022-02-07 19:56:55.612 [main] DriverUtils - DRIVER_TYPE not set. Using deafault driver type: chrome
+[INFO ] 2022-02-07 19:56:57.897 [main] DriverUtils - Running tests on: chrome
